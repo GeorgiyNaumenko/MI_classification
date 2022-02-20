@@ -1,3 +1,3 @@
-# MI Classification
+# Threshold Crypto Bot
 
-Mental Illness Classification repository.
+Repository for Telegram bot for threshold crypto while chatting.
